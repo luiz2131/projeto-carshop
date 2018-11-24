@@ -1,0 +1,252 @@
+
+
+
+
+
+body{
+    margin: 0%;
+    font-family: sans-serif;
+    background-image:url("http://1.bp.blogspot.com/-_3GnDyxXu7U/UD7o9qVnpvI/AAAAAAAAODE/eCUFCze1ht0/s1600/carros-lindos-papel-de-parede+(1).jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+nav{
+    width:20%;
+    height: 100%;
+    background-color: black;
+    text-align: center;
+    padding: 1%;
+    padding-top:3%;
+    box-shadow: 5px 0px 10px grey;
+    float: left;
+    font-size:20px;
+    }
+    #conteudo{
+    float: right;
+    width:75%;
+    height: 100%;
+    
+    }
+    img{
+    width:100px;
+    margin-top: 30px;
+    }
+    h1{
+    text-align: center;
+    background-color:rgba(27, 26, 26, 0.767)  ;
+    color: white;
+    width:auto;
+    height: 90px;
+    font-size: 50px;
+    }
+
+    nav h2{
+     
+     color: white;
+     font-size: 50px;
+
+    }
+   
+    nav ul{
+        
+        padding: 0%;
+    }
+    nav li{
+        list-style:none ;
+      padding:4%;
+    }
+    nav li:hover{
+        background-color: #0d6579;
+      }
+
+ nav ul li a{
+     color: white;
+     text-decoration: none;
+     
+     
+ }
+ main{
+
+     float: right;
+     
+     width: 75%;
+     
+ }
+ main form{
+     text-align: center
+    
+
+     
+
+ }
+ main form input{
+     width: 60%;
+     height: 30px;
+    margin-top: 1%;
+    padding: 10px;
+ }
+
+ main form div{
+     width: 60%;
+     text-align: left;
+     margin: auto;
+    margin-top: 1%;
+
+ }
+
+ main form div input{
+     width: 5%;
+     height: 15px;
+ }
+ main form div input[type="text"],[type="file"],[type="date"]{
+     width: 100%;
+     height: 15px;
+ }
+ main form div input[type="file"]{
+     width: 70%;
+     height: 15px;
+ }
+ main form div input[type="date"]{
+     width: 100%;
+     height: 50px;
+ }
+ main form div input[type="text"]{
+     width: 100%;
+     height: 15px;
+ }
+ main form div button{
+     height:40px;
+     width: 100px;
+     color: white;
+     background-color: #0d6579;
+
+    
+     }
+
+ 
+ #botao{
+     text-align: center;
+     margin-top: 50px;
+    
+ }
+ main form fieldset{
+     width: 57%;
+     margin: auto;
+     text-align: left;
+     margin-top: 10px;
+ }
+ main form fieldset div{
+     text-align: left;
+     width: 100%;
+     margin-top: 10px;
+ }
+ #divlinha{
+margin-left: 390px;
+
+ }
+ #divlinha2{
+margin-top:-54%;
+margin-left: 100px;
+ }
+ 
+
+
+
+
+
+.anuncio{
+background-color: white;
+width: 150px;
+height: 210px;
+margin-bottom: 10px;
+float: left;
+margin-right: 10px;
+text-align: center;
+padding: 4px;
+border-color: black;
+
+
+}
+.carro{
+    width: 200px;
+    height:320px ;
+    background-color: azure;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    float: left;
+    border-radius: 5px;
+}
+
+.carro img{
+   width: 180px; 
+   height: 100px;
+   object-fit:cover;
+}
+.fabricante{
+ display: block;
+ text-align: left;
+ margin-left: 13px;
+ font-size: 20px;
+}
+.nome{
+    display: block;
+    text-align: left;
+    margin-left: 13px;
+
+}
+.preco{
+    display: block;
+    text-align: left;
+    margin-left: 9px;
+    color: red;
+    font-size: 19px;
+    margin-top: 28px;
+}
+.ano ,.cor{
+   margin-right: 30px;
+  
+}
+.cor,.porta,.ano,.km{
+    font-size: 14px; 
+
+
+}
+.anoKm,.CorPorta{
+text-align: left;
+margin-left:13px; 
+margin-right: 13px;
+}
+.km ,.porta{
+   float: right;
+
+ }
+ .ano{
+  background-color:red; 
+  border-radius: 5px;
+  color: white;
+
+ }
+ .km{
+    background-color:blue; 
+    border-radius: 5px;
+    color: white;
+
+ }
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
